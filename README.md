@@ -36,6 +36,5 @@ I am a **Computer Science & Engineering (AI & ML) student** and an **aspiring AI
 ---
 
 ### 🤝 Connect With Me
-* 💼 **LinkedIn:** [Saksham Gunjkar](https://www.linkedin.com/in/saksham-gunjkar-0605a1426?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* 💼 **LinkedIn:** [Saksham Gunjkar]([https://linkedin.com](https://www.linkedin.com/in/saksham-gunjkar-0605a1426?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 * 📧 **Email:** sakshamgunjkar@outlook.com
-*
