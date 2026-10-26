@@ -29,12 +29,13 @@ I am a **Computer Science & Engineering (AI & ML) student** and an **aspiring AI
 
 ### 📊 GitHub Activity & Insights
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+![GitHub Stats](https://vercel.app)
+
+![Top Languages](https://vercel.app)
 
 ---
 
 ### 🤝 Connect With Me
-* **Email:** sakshamgunjkar@outlook.com*
+* 💼 **LinkedIn:** [Saksham Gunjkar](https://www.linkedin.com/in/saksham-gunjkar-0605a1426?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* 📧 **Email:** sakshamgunjkar@outlook.com
+*
