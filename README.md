@@ -37,5 +37,4 @@ I am a **Computer Science & Engineering (AI & ML) student** and an **aspiring AI
 ---
 
 ### 🤝 Connect With Me
-* **Email:** sakshamgunjkar@outlook.com
-*
+* **Email:** sakshamgunjkar@outlook.com*
